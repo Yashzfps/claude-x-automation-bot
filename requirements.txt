@@ -1,0 +1,7 @@
+selenium
+selenium-stealth
+webdriver-manager
+google-genai
+python-dotenv
+feedparser
+schedule
